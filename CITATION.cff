@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: Please cite this software package if you use the code.
+title: Helical Tomotherapy PSQA Plan Complexity and SPC Analysis Package
+type: software
+version: "2026.11.24"
+date-released: 2026-11-24
+license: MIT
+repository-code: "https://github.com/quick0306/HT_PlanComplexity_PSQA_SPC"
+authors:
+  - family-names: Zhang
+    given-names: Liyuan
+    affiliation: Department of Radiation Oncology, Jinshazhou Hospital of Guangzhou University of Chinese Medicine, Guangzhou, China
+  - family-names: Hu
+    given-names: Jinyan
+    affiliation: Department of Radiation Oncology, Jinshazhou Hospital of Guangzhou University of Chinese Medicine, Guangzhou, China
+  - family-names: Li
+    given-names: Jing
+    affiliation: Department of Radiation Oncology, Jinshazhou Hospital of Guangzhou University of Chinese Medicine, Guangzhou, China
+  - family-names: Wei
+    given-names: Xiaowu
+    affiliation: Department of Radiation Oncology, Jinshazhou Hospital of Guangzhou University of Chinese Medicine, Guangzhou, China
+  - family-names: Zhang
+    given-names: Houjin
+    affiliation: Radiation Oncology, First Affiliated Hospital of Gannan Medical University, Ganzhou, China
+  - family-names: Wei
+    given-names: Xiaping
+    affiliation: Department of Radiation Oncology, Jinshazhou Hospital of Guangzhou University of Chinese Medicine, Guangzhou, China
